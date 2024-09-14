@@ -1,4 +1,4 @@
-# The-Alkamia-Adventure
+# The Alkamia Adventure
 _Game Synopsis:_ The Alkamia Adventure is an adventure game that follows two explorers, Robin and Lucky, on their journey in the Congo Basin Rainforest. The goal of their adventure is to find a rare species of flower called Alkamia, which can heal animal wounds. Their journey takes an unexpected turn when a mountain gorilla chases them through the forest, leading the two characters away from each other. The explorers must go through a series of games and puzzles to reunite with their friend. 
 
 The Alkamia Adventure consists of 3 chapters including mini-games and an epilogue. Each chapter will include two perspectives, one from each character. Each character will go through a set number of mini-games per chapter.   
