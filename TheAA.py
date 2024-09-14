@@ -1,5 +1,4 @@
 # Name: Namanpreet Dhillon
-# Date: June 8th, 2022
 
 # Program Description: The Alkamia Adventure is an adventure game following two explorers, Robin and Lucky, through their journey in the Congo Basin Rainforest. The goal of their adventure is to find a rare species of flower called Alkamia, which can heal animal wounds. Their journey takes an unexpected turn when a mountain gorilla chases them through the forest, leading the two characters away from each other. The explorers must go through a series of games and puzzles in the hopes of reuniting with their friend.
 
